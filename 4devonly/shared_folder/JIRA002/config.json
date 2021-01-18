@@ -1,0 +1,10 @@
+{
+  "data_source_type": "csv",
+  "sourceDataDirectory": ".\\data\\source\\",
+  "targetType": "csv",
+  "targetDataDirectory": ".\\data\\target\\",
+  "dbConnectionString": "",
+  "dbIpAddress": "",
+  "dbSchemeName": "",
+  "dbSchemePassword": ""
+}

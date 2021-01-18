@@ -1,0 +1,18 @@
+{
+  "data_source_type": "iq",
+  "data_source_name": "Ядро КХД",
+  "data_source_host": "localhost",
+  "data_source_port": "2638",
+  "data_source_dbname": "dwh",
+  "data_source_username": "core",
+  "data_source_password": "Ab123456",
+  "data_source_table_owner": "core",
+  "data_target_type": "iq",
+  "data_target_name": "Ядро КХД (uat)",
+  "data_target_host": "localhost",
+  "data_target_port": "2638",
+  "data_target_dbname": "dwh",
+  "data_target_username": "uat_core",
+  "data_target_password": "Ab123456",
+  "data_target_table_owner": "uat_core"
+}

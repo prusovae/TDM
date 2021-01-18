@@ -1,0 +1,9 @@
+table_name,column_name,business_domain
+CUSTOMER,CUSTOMER_id,
+CUSTOMER,first_name,person_name
+CUSTOMER,family_name,person_sirname
+CUSTOMER,inn,inn_fl
+CLIENT,client_id,
+CLIENT,fname,person_name
+CLIENT,sname,person_sirname
+CLIENT,telnum,mobile_num

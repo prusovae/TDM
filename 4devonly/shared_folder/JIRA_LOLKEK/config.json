@@ -1,0 +1,18 @@
+{
+  "data_source_type": "oracle",
+  "data_source_name": "АС Пример",
+  "data_source_host": "localhost",
+  "data_source_port": "8001",
+  "data_source_sid": "xe",
+  "data_source_user": "src_tech_user",
+  "data_source_password": "hell4min",
+  "data_source_table_owner": "src_sys_01",
+  "data_target_type": "oracle",
+  "data_target_name": "АС Пример (dev01)",
+  "data_target_host": "localhost",
+  "data_target_port": "8002",
+  "data_target_sid": "xe",
+  "data_target_user": "tgt_sys_01",
+  "data_target_password": "hell4min",
+  "data_target_table_owner": "tgt_sys_01"
+}

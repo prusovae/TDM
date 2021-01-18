@@ -1,0 +1,4 @@
+table_name,column_name,data_masking_domain,pct
+CRM_CLIENT,email,email,1.0
+CRM_CLIENT,mobile_num,person_inn,0.667
+CRM_CLIENT,fio,person_fio,1.0

@@ -1,0 +1,18 @@
+{
+  "data_source_type": "oracle",
+  "data_source_name": "АС Пример",
+  "data_source_host": "localhost",
+  "data_source_port": "1521",
+  "data_source_sid": "XE",
+  "data_source_user": "core",
+  "data_source_password": "core",
+  "data_source_table_owner": "core",
+  "data_target_type": "oracle",
+  "data_target_name": "АС Пример (dev01)",
+  "data_target_host": "localhost",
+  "data_target_port": "1521",
+  "data_target_sid": "XE",
+  "data_target_user": "uat_core",
+  "data_target_password": "uat_core",
+  "data_target_table_owner": "uat_core"
+}
